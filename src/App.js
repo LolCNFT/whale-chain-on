@@ -25,7 +25,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn a lot more
+          Unlearn More
         </a>
       </header>
       <Signature/>
