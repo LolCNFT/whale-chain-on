@@ -18,7 +18,15 @@ function App() {
         >
           Learn More
         </a>
-        
+        <a 
+          style= {{padding: "1rem"}}
+          className="App-link"
+          href="https://twitter.com/Cryptoknightenj"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn a lot more
+        </a>
       </header>
       <Signature/>
     </div>
